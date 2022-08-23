@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Yuri Ramos!!
 
-- Analise e Desenvolvimento!!
+- Analysis and systems development!!
 - full stack developer
 
 -👨 SERRATEC
