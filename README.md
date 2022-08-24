@@ -1,4 +1,4 @@
-### Olá!! Eu sou o Yuri Ramos!!
+### Hi! I' m Yuri Ramos!!
 
 - Analysis and systems development!!
 - full stack developer
