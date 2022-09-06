@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1250&color=7373EB&center=verdadeiro&vCenter=verdadeiro&width=435&lines=Welcome!+%F0%9F%98%89;I'+m+Yuri+Ramos!;Here+you+will+see+;some+of+my+work;feel+the+Will.)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1250&color=7373EB&center=verdadeiro&vCenter=verdadeiro&width=435&lines=Welcome!+%F0%9F%98%89;I'+m+Yuri+Ramos!;Here+you+will+see+;some+of+my+work;feel+the+Will.%F0%9F%98%85)](https://git.io/typing-svg)
 
 - Analysis and systems development!!
 - full stack developer In progress
