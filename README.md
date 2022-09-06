@@ -1,6 +1,6 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1250&color=7373EB&center=verdadeiro&vCenter=verdadeiro&width=435&lines=Welcome!+%F0%9F%98%89;I'+m+Yuri+Ramos!;Here+you+will+see+;some+of+my+work;feel+the+Will.%F0%9F%98%85)](https://git.io/typing-svg)
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=2C43F7&background=A7FF7700&center=true&width=435&height=57&lines=Welcome!+%F0%9F%98%89;I'm+Yuri+Ramos%2C;Here+you+will+see;some+of+my+work.;Fell+the+will!+%F0%9F%98%85" alt="Typing SVG" /></a>
 
-- Analysis and systems development!!
+- Analysis and systems development!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 - full stack developer In progress
 
 -👨 SERRATEC
@@ -22,8 +22,8 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  
   <div>
-  <img align="right" alt="150" height="150" style="border-radius:50px;" 
-  src="https://tenor.com/view/cafe-coffee-tomemos-cafe-mografic-gif-21500526">
+ 
+  
 </div>
   
   ##
