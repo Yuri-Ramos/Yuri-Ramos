@@ -1,3 +1,8 @@
+<div>
+  <img src="https://cdn.discordapp.com/attachments/902219622269460531/1053083548996874320/NATAL_barra_divisoria_MSGT_0021.gif">
+  </div>
+<br/>
+
 <div align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=2C43F7&background=A7FF7700&center=true&width=435&height=57&lines=Welcome!+%F0%9F%98%89;I'm+Yuri+Ramos%2C;Here+you+will+see;some+of+my+work.;Fell+the+will!+%F0%9F%98%85" alt="Typing SVG" /></a>
 </div>
 
@@ -49,4 +54,7 @@
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+</div>  
+  <div>
+    <img src="https://cdn.discordapp.com/attachments/902219622269460531/1053085611726229505/goey-footer-unscreen.gif" alt="footer" height="150" width="15000">
+    </div>
