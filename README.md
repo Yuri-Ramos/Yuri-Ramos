@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center" style=" font-size:20px">🎓 Analise e Desenvolvimento de Sistemas<h1> 
-<h1 align="center"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">🤖 Desenvolvedor Full Stack || Serratec<h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">🤖 Desenvolvedor Full Stack | Test to Maker<h1>
 
 
 
