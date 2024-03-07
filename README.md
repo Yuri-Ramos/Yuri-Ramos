@@ -14,7 +14,7 @@
 <div align="center">
 ## 
 # 💫 About Me:
-<h1>"Um desenvolver tentando quebrar a complexidade do mundo em soluções simples, para as pessoas terem tempo para o que realmente é importante".</h1><br/> Formado pelo Firjan/Senai (Serratec), como Desenvedor full Stack em 2022, estou me graduando em análise e desenvolvimento de sistemas pela Estácio. Minha experiência inclui e analise e suporte de sistemas de TI, voltado a implementação do E-social, experiência em banco de dados relacionais como PostgreSQL e SQLserver, alguns não relacionais como Mongo, com manutenção de servidores AWS e Cloud Computing. Desenvolvimento e gerenciamento de projetos de Front com JavaScript, Node JS, ReactJs e Native. Além de desenvolvimento de APis com JAVA são Hard Skills que possuo. Hoje, empenho tempo e esforço na confecção de APIs em JAVA e produção de Móbiles com React Native, e na expansão do vocabulário com o inglês. <br><br>Gosto de gerar novas ideias e desenvolver soluções viáveis para problemas amplamente relevantes que afetam a vida do usuário comum. <br>Atualmente, estou buscando oportunidades que me permitam desenvolver e promover tecnologias. Os campos de interesse específicos incluem desenvolvimento Web, Backend, Tests Web & Descktop e Banco de dados.
+<h1>"Um desenvolver tentando quebrar a complexidade do mundo em soluções simples, para as pessoas terem tempo para o que realmente é importante".</h1><br/>. 
 
 
 ## 🌐 Socials:
